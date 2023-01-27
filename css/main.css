@@ -25,7 +25,7 @@ html {
  */
 
 ::-moz-selection {
-    background: #b3d4fc;
+    background: #fff;
     text-shadow: none;
 }
 
@@ -97,7 +97,7 @@ textarea {
 
 
 html {
-  background-color: #fff;
+  background-color: rgb(77, 4, 75);
   height: 100%;
 }
 
@@ -119,13 +119,14 @@ body {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
   color: #fff;
   line-height: 1.5em;
-  font-size: 1.6em;
-  background-color: #f16059;
+  font-size: 1.3em;
+  background-color: rgb(214, 159, 234);
   height: 300px;
   display: flex;
   width: 30%;
   justify-content: center;
   align-items: center;
+  padding: 1%;
 }
 
 
